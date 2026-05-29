@@ -23,11 +23,11 @@ This project visualizes real-time vehicle parameters such as speed, engine RPM, 
 
 Example:
 
-```
+
 <img width="1919" height="1023" alt="F1 telemetry dashboard" src="https://github.com/user-attachments/assets/c044055e-5dca-4723-83fb-9538a4ade3db" />
 
 
-```
+
 
 ---
 
