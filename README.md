@@ -84,7 +84,7 @@ This project explores several engineering and MATLAB concepts:
 3. Run the script
 
 ```matlab
-Run → telemetry_dashboard.m
+Run → f1telemetry.m
 ```
 
 ---
